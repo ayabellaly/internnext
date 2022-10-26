@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "bellaly",
+        "lastName": "aya",
+        "username": "aya",
+        "hash": "$2a$10$y.eeHwd.RBgtMnAtk/fHFu4JMYfpAmB1yiJ4EnCMWdxilnEOswy7O",
+        "id": 5,
+        "dateCreated": "2022-08-15T15:50:45.347Z",
+        "dateUpdated": "2022-08-15T15:50:45.347Z"
+    },
+    {
+        "firstName": "maroua",
+        "lastName": "wiwi",
+        "username": "marou",
+        "hash": "$2a$10$DzlFAqGdhpdyAWsKxZ2kBOIyPsk6hRjeEdTbjZ5uhMreCYwXkEi2.",
+        "id": 7,
+        "dateCreated": "2022-09-17T18:18:55.078Z",
+        "dateUpdated": "2022-09-17T18:18:55.078Z"
+    },
+    {
+        "firstName": "bellaly",
+        "lastName": "aya",
+        "username": "yaya",
+        "hash": "$2a$10$DPfOZJRwPdBsy7bbyU9.AOh/4HDE9P2A9Azx.NDUTYsWxhsX0/VKi",
+        "id": 8,
+        "dateCreated": "2022-09-21T15:26:04.767Z",
+        "dateUpdated": "2022-09-21T15:26:04.767Z"
+    },
+    {
+        "firstName": "hanane",
+        "lastName": "boaabed",
+        "username": "hanane",
+        "hash": "$2a$10$zfNWfYaZnMSa1yB0AyZJ8OemXikkuG3C5rs.1osSVe8/tE8H1qrEm",
+        "id": 9,
+        "dateCreated": "2022-09-27T16:24:11.906Z",
+        "dateUpdated": "2022-09-27T16:24:11.906Z"
+    }
+]

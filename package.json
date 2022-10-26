@@ -1,0 +1,39 @@
+{
+  "name": "next-js-registration-login-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  
+  "dependencies": {
+    "@hookform/resolvers": "^2.7.1",
+    "@premieroctet/next-crud": "^2.2.0",
+    "@prisma/client": "^4.2.1",
+    "bcryptjs": "^2.4.3",
+    "express-jwt": "^6.1.0",
+    "faunadb": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "next": "^11.1.4",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-data-table-component": "^7.5.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.12.1",
+    "rxjs": "^7.3.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0",
+    "prisma": "^4.2.1"
+  },
+  "description": "Next.js 11 - User Registration and Login Example",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
