@@ -31,6 +31,7 @@ function Nav() {
         <NavLink href="/" className="nav-item nav-link text-secondary">About</NavLink>
                 <NavLink href="/users" className="nav-item nav-link text-secondary">Users</NavLink>
                 <NavLink href="/cheque" className="nav-item nav-link text-secondary">cheque</NavLink>
+                <NavLink href="/users" className="nav-item nav-link text-secondary">see more</NavLink>
 
 
 
