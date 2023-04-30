@@ -27,6 +27,7 @@ function Home() {
             
 
               </p>
+              <p></p>
                 <p className="font-italic text-justify h1-container">banque participative créée conjointement par le Groupe Crédit Agricole</p>
               <div className="text-center">              
               <img src="https://varadinum.ma/wp-content/uploads/2022/08/AF1QipMAC_prM8xdYjwbyi4wvPZ6IJOj7VMkSrhe1kZ1w1600-h1000-k-no.jpeg" class=" h-75 w-50" alt="image"/>
