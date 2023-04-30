@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 
 import { NavLink } from '.';
 import { userService } from 'services';
+import Image from 'next/image'
 
 export { Nav };
 
@@ -23,7 +24,7 @@ function Nav() {
     return (
         <nav className="navbar navbar-expand navbar-dark bg-light"  style={{ border: "1px solid green" }}>
             <div className="navbar-nav ">
-                <NavLink href="/" exact className="nav-item nav-link"> <img
+                <NavLink href="/" exact className="nav-item nav-link"> <Image
           src="https://www.creditagricole.ma/sites/default/files/2019-07/al%20akhdar%20bank.png"
           className=" rounded  w-25 h-100 "
           alt="Phone image"

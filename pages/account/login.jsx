@@ -6,6 +6,8 @@ import { Link } from 'components';
 import { Layout } from 'components/account';
 import { userService, alertService } from 'services';
 import './../../styles/Home.module.css'
+import Image from 'next/image'
+
 
 export default Login;
 
@@ -46,11 +48,7 @@ function Login() {
 
    
       <div className="col-md-8 col-lg-7 col-xl-6">
-        <img
-          src="https://img.freepik.com/vecteurs-libre/illustration-du-concept-connexion-bancaire_114360-7894.jpg?w=826&t=st=1663801427~exp=1663802027~hmac=bd76090231cbee31978638877a33cf82ed5f3ff111a96a3a7b1bc1669aa2a2e5"
-          className="w-100 h-100 "
-          alt="Phone image"
-        />
+       
       </div>
       <div className="col-md-7 col-lg-5 col-xl-5 offset-xl-1">
         <form onSubmit={handleSubmit(onSubmit)}>
